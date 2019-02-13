@@ -1,0 +1,11 @@
+amazonProperties:
+    endpointUrl: https://s3.amazonaws.com
+    accessKey: AKIAJ34JLUG2AMSBC2RA
+    secretKey: 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
+    bucketName: schoolacademicdev
+    bucketRegion: us-east-1
+smsProperties:
+    username: prakash
+    password: prakash@1
+    senderid: PRKASH
+    route: 2
